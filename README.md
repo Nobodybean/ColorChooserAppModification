@@ -1,3 +1,3 @@
 # ColorChooserAppModification
-<img width="269" alt="image" src="https://user-images.githubusercontent.com/109548764/236695103-c0e6d4c5-305c-4c65-aaa3-11fd91b044db.png">
+<img width="273" alt="image" src="https://user-images.githubusercontent.com/109548764/236695177-c864381a-2524-41fb-afe2-b685912ae696.png">
 Author: Alfiia Zholdosheva
